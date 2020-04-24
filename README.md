@@ -10,19 +10,19 @@ Showcasing Responsive Design. One page business website including media queries 
 
 ## Screenshots:
 >Media @ 1000px 
-![media@1000](../readme/media-1000.JPG)
+![media@1000](https://github.com/kelliott14/Showcase-ResponsiveDesign/blob/master/readme/media-1000.JPG)
 
 >Media @ 825px 
-![media@825](/readme/media-825.jpg)
+![media@825](https://github.com/kelliott14/Showcase-ResponsiveDesign/blob/master/readme/media-825.JPG)
 
 >Media @ 760px 
-![media@760](/readme/media-760.jpg)
+![media@760](https://github.com/kelliott14/Showcase-ResponsiveDesign/blob/master/readme/media-760.JPG)
 
 >Media @ 625px 
-![media@625](/readme/media-625.jpg)
+![media@625](https://github.com/kelliott14/Showcase-ResponsiveDesign/blob/master/readme/media-625.JPG)
 
 >Media @ 425px 
-![media@425](/readme/media-425.jpg)
+![media@425](https://github.com/kelliott14/Showcase-ResponsiveDesign/blob/master/readme/media-425.JPG)
 
 >Media Print
-![media@print](/readme/media-print.jpg)
+![media@print](https://github.com/kelliott14/Showcase-ResponsiveDesign/blob/master/readme/media-print.JPG)
