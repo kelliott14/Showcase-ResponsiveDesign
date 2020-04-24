@@ -10,19 +10,19 @@ Showcasing Responsive Design. One page business website including media queries 
 
 ## Screenshots:
 >Media @ 1000px 
-(readme/media-1000.jpg)
+![media@1000](/readme/media-1000.jpg)
 
 >Media @ 825px 
-(readme/media-825.jpg)
+![media@825](/readme/media-825.jpg)
 
 >Media @ 760px 
-(readme/media-760.jpg)
+![media@760](/readme/media-760.jpg)
 
 >Media @ 625px 
-(readme/media-625.jpg)
+![media@625](/readme/media-625.jpg)
 
 >Media @ 425px 
-(readme/media-425.jpg)
+![media@425](/readme/media-425.jpg)
 
 >Media Print
-(readme/media-print.jpg)
+![media@print](/readme/media-print.jpg)
